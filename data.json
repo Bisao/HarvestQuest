@@ -1,0 +1,50 @@
+{
+  "players": [
+    [
+      "692b781d-6d9e-426c-887a-dce608a5c1b3",
+      {
+        "id": "692b781d-6d9e-426c-887a-dce608a5c1b3",
+        "username": "Bison",
+        "level": 1,
+        "experience": 0,
+        "coins": 100,
+        "inventoryWeight": 0,
+        "maxInventoryWeight": 50000,
+        "autoStorage": false,
+        "craftedItemsDestination": "storage",
+        "hungerDegradationMode": "automatic",
+        "waterStorage": 0,
+        "maxWaterStorage": 500,
+        "waterTanks": 0,
+        "equippedHelmet": null,
+        "equippedChestplate": null,
+        "equippedLeggings": null,
+        "equippedBoots": null,
+        "equippedWeapon": null,
+        "equippedTool": null,
+        "autoCompleteQuests": true,
+        "health": 100,
+        "maxHealth": 100,
+        "hunger": 100,
+        "maxHunger": 100,
+        "thirst": 100,
+        "maxThirst": 100,
+        "temperature": 0,
+        "fatigue": 0,
+        "morale": 50,
+        "hygiene": 100,
+        "diseases": [],
+        "immunities": [],
+        "resistances": {},
+        "skills": {},
+        "skillPoints": 0,
+        "totalSkillPoints": 0,
+        "skillAchievements": []
+      }
+    ]
+  ],
+  "inventoryItems": [],
+  "storageItems": [],
+  "expeditions": [],
+  "playerQuests": []
+}
